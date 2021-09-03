@@ -7,6 +7,9 @@
 
   cursor: pointer;
 
+  margin-left: 15px;
+  width: calc(100% - 30px);
+
   button {
     background-color: var(--main);
     height: 30px;
